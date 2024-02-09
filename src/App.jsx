@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="w-full h-screen ">
       <img
-        src="/public/Background.jpg"
+        src="/Background.jpg"
         className="w-full h-full absolute object-cover -z-40"
         alt=""
       />
