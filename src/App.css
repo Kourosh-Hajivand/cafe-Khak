@@ -1,0 +1,13 @@
+/** @format */
+
+@font-face {
+  font-family: "Irans-Sans";
+  src: url("./Fonts/IRANSansMedium.ttf") format("truetype"),
+    url("./Fonts/IRANSans_Medium.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Irans-Sans", sans-serif;
+}
